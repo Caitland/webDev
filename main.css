@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300;400&display=swap');
+
+body {
+    background-color: white
+}
+h1 {
+    justify-content: center;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 40%;
+    font-family: 'Chakra Petch', sans-serif;
+    color: darkgreen;
+    font-size: 35px;
+
+ 
+}
+h2 {
+    display: flex;
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 12px;
+}
+
+h3 {
+    display: flex;
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 26px;
+    border: red, 10px;
+}
+.mainText {
+    margin: 0%;
+    background-color: goldenrod;
+    font-family: 'Chakra Petch', sans-serif;
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    text-align: center;
+}
+
+
+.welcome {
+    margin: 0%;
+    background-color: lightseagreen;
+    font-family: 'Chakra Petch', sans-serif;
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    align-items: stretch;
+    text-align: center;
+
+}
+
+.header {
+    background-color: white;
+    font-size: 26px;
+    margin-bottom: 1%;
+    margin-top: 1%
+}
+
+
+.nav_bar {
+    display: flex;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-family: 'Chakra Petch', sans-serif;
+    font-weight: bolder;
+    justify-content: space-around;
+    background-color: lightgreen;
+    
+}
+
+.textbox {
+    display: flex;
+    margin: 4%;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    justify-content: stretch;
+    text-align: center;
+
+}
+
+.textbox1 {
+    display: flex;
+    margin: 4%;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    font-weight: bolder;
+
+}
+.textbox2 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.image {
+    display: flex;
+    margin-bottom: 0%;
+}
+
+#spinosaurus{
+    display: flex;
+    font-family: 'Chakra Petch', sans-serif;
+    box-sizing: border-box;
+    width: 100%;
+    align-items: center;
+    background-color: lightseagreen;
+}
+
+#lufengosaurus {
+    font-family: 'Chakra Petch', sans-serif;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    background-color:goldenrod;
+    padding-bottom: 0%;
+    
+}
+
+#dreadnoughtus {
+    font-family: 'Chakra Petch', sans-serif;
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    background-color: lightseagreen;
+}
+
+#triceratops {
+    font-family: 'Chakra Petch', sans-serif;
+    display: flex;
+    box-sizing: border-box; 
+    align-items: center;
+    background-color:lightseagreen;
+}
+
+#stegosaurus {
+    font-family: 'Chakra Petch', sans-serif;
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    background-color:goldenrod;
+    flex-direction: row-reverse;
+}
+
+#charonosaurus {
+    font-family: 'Chakra Petch', sans-serif;
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    background-color:lightseagreen;
+}
+
